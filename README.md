@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Prithivi333
-- 👀 I’m interested in MERN stack development
-- 🌱 I’m currently enhancing my DSA and problem solving skills.
-- 💞️ I’m looking to collaborate on MERN stack projects.
+- 👀 I’m interested in Springboot and Javascript development
+- 🌱 I’m currently looking to contribute on exciting OPEN SOURCE projects.
 - 📫 How to reach me prithivienggg@gmail.com
 
 <!---
